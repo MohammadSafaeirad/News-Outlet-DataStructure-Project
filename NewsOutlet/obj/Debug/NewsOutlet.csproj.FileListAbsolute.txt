@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\bin\Debug\NewsOutlet.exe.config
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\bin\Debug\NewsOutlet.exe
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\bin\Debug\NewsOutlet.pdb
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\obj\Debug\NewsOutlet.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\obj\Debug\NewsOutlet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\obj\Debug\NewsOutlet.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\obj\Debug\NewsOutlet.exe
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\obj\Debug\NewsOutlet.pdb
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\obj\Debug\NewsOutlet.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\bin\Debug\ConcurrentPriorityQueue.dll
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\bin\Debug\PriorityQueue.dll
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\bin\Debug\ConcurrentPriorityQueue.pdb
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\bin\Debug\PriorityQueue.pdb
+C:\Users\Lenovo\Documents\Data Structure\NewsOutlet\NewsOutlet\bin\Debug\PriorityQueue.xml
